@@ -5,7 +5,8 @@
 Este projeto é um jogo de adivinhação de número de 1 a 100 O jogador deve tentar adivinhar o número correto em um número limitado de tentativas para ganhar o jogo.
 
 ## Como jogar
-
+![Jogo(☞ﾟヮﾟ)☞]
+(https://jordanrafaell.github.io/adivinhaJogo.github.io/)
 
 Insira um número de 1 a 100 na caixa de texto e clique no botão "Adivinhar".
 O jogo informará se o número inserido é maior ou menor que o número correto.
