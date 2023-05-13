@@ -15,8 +15,8 @@ O jogo informará se o número inserido é maior ou menor que o número correto.
 Continue adivinhando até acertar o número ou até atingir o limite máximo de tentativas.
 
 Se você acertar o número dentro do limite de tentativas, você ganha o jogo.
-Ferramentas usadas
-Este projeto foi desenvolvido usando as seguintes ferramentas:
+
+# Ferramentas usadas:
 
 ## HTML
 ## CSS
