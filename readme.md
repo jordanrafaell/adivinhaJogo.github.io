@@ -14,6 +14,6 @@ Se você acertar o número dentro do limite de tentativas, você ganha o jogo.
 Ferramentas usadas
 Este projeto foi desenvolvido usando as seguintes ferramentas:
 
-HTML
-CSS
-JavaScript
+## HTML
+## CSS
+## JavaScript
