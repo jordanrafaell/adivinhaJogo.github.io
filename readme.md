@@ -16,8 +16,8 @@ Continue adivinhando até acertar o número ou até atingir o limite máximo de 
 
 Se você acertar o número dentro do limite de tentativas, você ganha o jogo.
 
-# Ferramentas usadas:
+## Ferramentas usadas:
 
-## HTML
-## CSS
-## JavaScript
+### HTML
+### CSS
+### JavaScript
